@@ -38,8 +38,9 @@ This face mask detection system is designed for research and educational purpose
 
 Please feel free to explore the project, utilize the code, and contribute to this important endeavor. Together, we can make a positive impact on public health and safety.
 
-OuputS:
+Ouputs:
 
 ![Screenshot 2023-08-12 161252](https://github.com/keshavbhardwaj03/face-mask-recognition/assets/75106888/077c4f3d-5602-401d-9cdd-96471094f9e2)
 ![Screenshot 2023-08-12 161154](https://github.com/keshavbhardwaj03/face-mask-recognition/assets/75106888/2f9ee766-2976-4102-8987-acea56fe109b)
 
+DataSet: https://www.kaggle.com/datasets/keshavbhardwaj99999/masked-and-unmasked-dataset
