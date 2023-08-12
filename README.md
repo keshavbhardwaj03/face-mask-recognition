@@ -37,3 +37,9 @@ Disclaimer:
 This face mask detection system is designed for research and educational purposes only. It should not be considered as a substitute for professional medical advice or safety measures. We encourage users to follow guidelines and recommendations from healthcare professionals and authorities regarding face mask usage and public safety.
 
 Please feel free to explore the project, utilize the code, and contribute to this important endeavor. Together, we can make a positive impact on public health and safety.
+
+OuputS:
+
+![Screenshot 2023-08-12 161252](https://github.com/keshavbhardwaj03/face-mask-recognition/assets/75106888/077c4f3d-5602-401d-9cdd-96471094f9e2)
+![Screenshot 2023-08-12 161154](https://github.com/keshavbhardwaj03/face-mask-recognition/assets/75106888/2f9ee766-2976-4102-8987-acea56fe109b)
+
